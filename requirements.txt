@@ -13,10 +13,6 @@ captum==0.6.0
 cftime==1.6.2
 clifford==1.4.0
 cmake==3.25.0
-conda==23.3.1
-conda-build==3.23.3
-conda-repo-cli==1.0.27
-conda-verify==3.4.2
 constantly==15.1.0
 cssselect==1.1.0
 daal4py==2023.0.2
