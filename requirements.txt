@@ -1,6 +1,4 @@
 altair==5.0.1
-anaconda-client==1.11.1
-anaconda-navigator==2.4.0
 ansi2html==1.8.0
 appdirs==1.4.4
 atomicwrites==1.4.0
