@@ -40,7 +40,7 @@ mpmath==1.2.1
 munkres==1.1.4
 mypy-extensions==0.4.3
 netCDF4==1.6.3
-numpy==1.25.2
+numpy==1.23.1
 opencv-python==4.7.0.72
 openpyxl==3.0.10
 pandas==1.5.3
