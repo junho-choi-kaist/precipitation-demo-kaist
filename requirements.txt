@@ -22,7 +22,6 @@ dash-core-components==2.0.0
 dash-daq==0.5.0
 dash-html-components==2.0.0
 dash-table==5.0.0
-datashape==0.5.4
 et-xmlfile==1.1.0
 fonttools==4.25.0
 gitdb==4.0.10
