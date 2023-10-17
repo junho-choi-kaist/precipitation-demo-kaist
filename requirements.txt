@@ -77,7 +77,6 @@ sparse==0.14.0
 streamlit==1.25.0
 streamlit-image-coordinates==0.1.6
 streamlit-plotly-events==0.0.6
-TBB==0.2
 tenacity==8.2.2
 threadpoolctl==3.2.0
 tifffile==2023.8.30
