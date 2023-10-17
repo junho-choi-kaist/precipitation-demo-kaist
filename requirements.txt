@@ -15,7 +15,6 @@ clifford==1.4.0
 cmake==3.25.0
 constantly==15.1.0
 cssselect==1.1.0
-daal4py==2023.0.2
 dash==2.12.1
 dash-bootstrap-components==1.4.2
 dash-bootstrap-templates==1.0.8
