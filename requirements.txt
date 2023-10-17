@@ -12,7 +12,6 @@ cachetools==5.3.1
 captum==0.6.0
 cftime==1.6.2
 clifford==1.4.0
-clyent==1.2.2
 cmake==3.25.0
 conda==23.3.1
 conda-build==3.23.3
